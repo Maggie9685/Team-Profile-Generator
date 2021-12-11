@@ -5,6 +5,9 @@ This app is to help team manager build their team profile webpage easily by answ
 #### Sample user input below. Generated HTML is under dist folder.
 ![Screenshot](SampleInput.JPG)
 
+#### Video Demo for this app
+![Demo video](https://watch.screencastify.com/v/8xcRdkut61NG5DpJWzQh)
+
 ## Built With
 * Javascript
 * HTMl

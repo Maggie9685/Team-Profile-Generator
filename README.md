@@ -6,7 +6,7 @@ This app is to help team manager build their team profile webpage easily by answ
 ![Screenshot](SampleInput.JPG)
 
 #### Video Demo for this app
-![Demo video](https://watch.screencastify.com/v/8xcRdkut61NG5DpJWzQh)
+https://watch.screencastify.com/v/8xcRdkut61NG5DpJWzQh
 
 ## Built With
 * Javascript
